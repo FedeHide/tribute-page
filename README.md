@@ -1,8 +1,10 @@
-# Bon Jovi - Tribute Page
+# Bon Jovi - Tribute Page | freeCodeCamp
+
+### Check the site [Here](https://fedehide.github.io/tribute-page/ " Bon Jovi - Tribute Page")
+
+------------
 
 [![tribute-page-Screenshot.png](https://i.postimg.cc/JhyPGf7k/tribute-page-Screenshot.png)](https://postimg.cc/1gQpdYqm)
 
 
-> This is just a portfolio website. All the projects and contact details given are **not real**.
-
-### Check the site [Here](https://fedehide.github.io/tribute-page/ " Bon Jovi - Tribute Page")
+> This is a [freecodecamp](http://https://www.freecodecamp.org/learn/ "freecodecamp") assignments. All the projects and contact details given are **not real**.
