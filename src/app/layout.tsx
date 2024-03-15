@@ -5,7 +5,7 @@ export const metadata: Metadata = {
 	title: 'Bon Jovi - Tribute Page',
 	description: 'This is a fake tibute website, a freecodecamp assignment',
 	openGraph: {
-		url: 'https://tribute-page.vercel.app/',
+		url: 'https://tribute-page-ebon.vercel.app/',
 		type: 'website',
 		title: 'Bon Jovi - Tribute Page',
 		description: 'This is a fake tibute website, a freecodecamp assignment',
@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: 'summary_large_image',
-		site: 'https://tribute-page.vercel.app/',
+		site: 'https://tribute-page-ebon.vercel.app/',
 	},
 }
 
