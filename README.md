@@ -1,6 +1,6 @@
 # Bon Jovi - Tribute Page | freeCodeCamp
 
-### Check the site [Here](https://fedehide.github.io/tribute-page/ " Bon Jovi - Tribute Page")
+### Check the site [Here](https://tribute-page.vercel.app " Bon Jovi - Tribute Page")
 
 ------------
 
