@@ -9,7 +9,9 @@ export const metadata: Metadata = {
 		type: 'website',
 		title: 'Bon Jovi - Tribute Page',
 		description: 'This is a fake tibute website, a freecodecamp assignment',
-		images: ['https://i.postimg.cc/wjjW8xms/tribute-page-og.jpg'],
+		images: [
+			'https://raw.githubusercontent.com/FedeHide/tribute-page/main/public/images/tribute-page-Screenshot.webp',
+		],
 	},
 	twitter: {
 		card: 'summary_large_image',

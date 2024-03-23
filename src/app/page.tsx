@@ -5,7 +5,7 @@ export default function Home(): JSX.Element {
 				<figure className="img-div" id="img-div">
 					{/* eslint-disable-next-line */}
 					<img
-						src="https://i.postimg.cc/FRwxFwmH/bonjobi-wallpaper.jpg"
+						src="https://raw.githubusercontent.com/FedeHide/tribute-page/main/public/images/bonjovi-wallpaper.webp"
 						alt="bon jovi"
 						className="image"
 						id="image"
