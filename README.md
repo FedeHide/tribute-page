@@ -14,7 +14,7 @@ This project is a fake tibute website, a freecodecamp assignment.
 
 ------------
 
-[![tribute-page-Screenshot.png](https://i.postimg.cc/JhyPGf7k/tribute-page-Screenshot.png)](https://postimg.cc/1gQpdYqm)
+[![tribute-page-Screenshot.png](https://i.postimg.cc/JhyPGf7k/tribute-page-Screenshot.png)](https://tribute-page-ebon.vercel.app/)
 
 
 > This is a [freecodecamp](http://https://www.freecodecamp.org/learn/ "freecodecamp") assignment. All the projects and contact details given are **not real**.
